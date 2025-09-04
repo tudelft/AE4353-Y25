@@ -5,7 +5,7 @@
 - [About](#about)
 - [GitHub Copilot](#github-copilot)
 - [Pre-requisites](#pre-requisites)
-    - [Virtual Studio Code](#virtual-studio-code)
+    - [Visual Studio Code](#Visual-studio-code)
 - [Windows](#windows)
     - [Setting Up](#setting-up)
         - [Git](#git)
@@ -21,7 +21,7 @@
 ## About
 This repository contains all the resources for the weekly exercises and competitions associated with the course. Each week, exercises and their solutions will be published here.
 
-To ensure a consistent and easy-to-setup coding environment for everyone, we will be using a combination of [Virtual Studio Code](https://code.visualstudio.com/) and [Kaggle](https://www.kaggle.com/). These will be the official environments throughout the course.
+To ensure a consistent and easy-to-setup coding environment for everyone, we will be using a combination of [Visual Studio Code](https://code.visualstudio.com/) and [Kaggle](https://www.kaggle.com/). These will be the official environments throughout the course.
 
 To get started, please refer to this README file for detailed instructions and guidance on setting up your environment correctly. Once your environment is configured, you can begin exploring the code and working on the exercises. If you have any questions or need assistance, feel free to reach out (see [contact information](#contact-information) to find out how!). Happy coding and learning! 🌟
 
@@ -39,7 +39,7 @@ If you already have access to GitHub Copilot, it comes pre-installed when you op
 ### Pre-requisites
 These are the required tools for this course. Please make sure to install them before starting the exercises.
 
-#### [1. Virtual Studio Code](https://code.visualstudio.com/)
+#### [1. Visual Studio Code](https://code.visualstudio.com/)
 Visual Studio Code (VS Code) is a lightweight and powerful code editor. We will use it for writing and editing code during the course.  
 
 - [Install](https://code.visualstudio.com/download)
@@ -122,7 +122,7 @@ Installations on Linux are all done directly through bash. Therefore the first t
 	You can check this installation by using the `conda env list` command. If the environment `AE4353` shows up, then you have completed the installation process!
 
 ## Usage
-Now that you've completed the installations you can start working on the exercises! In this section we will cover how you can use Virtual Studio Code (VS Code) as your interface for this course. 
+Now that you've completed the installations you can start working on the exercises! In this section we will cover how you can use Visual Studio Code (VS Code) as your interface for this course. 
 
 > 💡 This section is explained in the `Practical session 1` slides with images of each step. Please check them for further clarification on the steps below.
 
